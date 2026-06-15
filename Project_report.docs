@@ -1,0 +1,25 @@
+APPLICATION DEVELOPMENT PROJECT
+Project Title
+
+Student Management System
+
+Objective
+
+To develop a Python-based application for managing student records efficiently.
+
+Features
+Add Student
+View Students
+Search Student
+Delete Student
+User Friendly Menu
+Technologies Used
+Python 3
+VS Code
+Working
+
+The application allows users to manage student records through a menu-driven interface. Users can add, search, view, and delete student information.
+
+Conclusion
+
+This project demonstrates the use of Python classes, lists, dictionaries, and functions to build a practical application. It is a portfolio-ready project for beginners.
